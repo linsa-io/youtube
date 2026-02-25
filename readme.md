@@ -34,6 +34,9 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Bon Appetit](https://www.youtube.com/channel/UCbpMy0Fg74eXXkvxJrtEn3w) - Has a 'From the Test Kitchen' playlist where they try to recreate some foods.
 - [Tasty](https://www.youtube.com/channel/UCJFp8uSYCjXOMnkUyb3CQ3Q/videos) - Snack-sized videos and recipes you'll want to try.
 - [The Happy Pear](https://www.youtube.com/channel/UCr1PC384fLPw5PxyXecQDTw) - Vegan recipes.
+- [Pick Up Limes](https://www.youtube.com/@PickUpLimes) - Plant-based recipes and meal preps from a registered dietitian.
+- [Avant-Garde Vegan](https://www.youtube.com/c/avantgardevegan) - Professional chef creating elevated plant-based dishes.
+- [Rainbow Plant Life](https://www.youtube.com/c/RainbowPlantLife) - Globally inspired vegan recipes with detailed techniques.
 
 ## Crafting
 
