@@ -85,6 +85,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [VSauce2](https://www.youtube.com/user/Vsauce2/videos)
 - [VSauce3](https://www.youtube.com/user/Vsauce3/videos)
 - [VSauce](https://www.youtube.com/user/Vsauce/videos)
+- [GKCS](https://www.youtube.com/@gkcs/videos)
 
 ## Go
 
